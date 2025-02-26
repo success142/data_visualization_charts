@@ -21,13 +21,14 @@ To set up the project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/success412/data_visualization_charts.git
 
 # Navigate to the project folder
-cd your-repo-name
+cd your-rep  data_visualization_charts
 
 # Install required dependencies
 pip install -r requirements.txt
 
 # Run the application
-python app.py
+just run each cell to get the visualization
+NOTE YOU CAN VEIW THIS REPOSITORY WIRHOUT A FRONT END, JUST CLONING THE REPOSITORE AND DOWNLOADING THE FOLLOWING PACKAGES ON THE TOP OF THE CELL BEFORE RUNNING EACH CELL
